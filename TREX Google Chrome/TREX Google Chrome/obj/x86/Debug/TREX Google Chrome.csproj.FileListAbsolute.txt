@@ -1,0 +1,9 @@
+D:\OR LSIK\Prokom\TREX Google Chrome\TREX Google Chrome\bin\Debug\TREX Google Chrome.exe
+D:\OR LSIK\Prokom\TREX Google Chrome\TREX Google Chrome\bin\Debug\TREX Google Chrome.pdb
+D:\OR LSIK\Prokom\TREX Google Chrome\TREX Google Chrome\obj\x86\Debug\TREX_Google_Chrome.Form1.resources
+D:\OR LSIK\Prokom\TREX Google Chrome\TREX Google Chrome\obj\x86\Debug\TREX_Google_Chrome.Properties.Resources.resources
+D:\OR LSIK\Prokom\TREX Google Chrome\TREX Google Chrome\obj\x86\Debug\TREX Google Chrome.csproj.GenerateResource.Cache
+D:\OR LSIK\Prokom\TREX Google Chrome\TREX Google Chrome\obj\x86\Debug\TREX Google Chrome.exe
+D:\OR LSIK\Prokom\TREX Google Chrome\TREX Google Chrome\obj\x86\Debug\TREX Google Chrome.pdb
+D:\OR LSIK\Prokom\Suwanda Kurnia M_1610933024\TREX Google Chrome\TREX Google Chrome\obj\x86\Debug\TREX Google Chrome.exe
+D:\OR LSIK\Prokom\Suwanda Kurnia M_1610933024\TREX Google Chrome\TREX Google Chrome\obj\x86\Debug\TREX Google Chrome.pdb
